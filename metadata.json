@@ -1,0 +1,8 @@
+{
+  "name": "Gestão de Pecuária Leiteira",
+  "description": "Sistema completo para gestão de pecuária leiteira tropical brasileira, cobrindo rebanho, produção de leite, reprodução, nutrição, estoque, financeiro e consultoria via Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
